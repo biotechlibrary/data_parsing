@@ -1,5 +1,3 @@
-Sorry about that! It looks like the last sentence of the `view_nifti.py` script description was cut off. Here is the complete README.md file:
-
 # data_parsing
 
 This repository contains scripts for parsing and converting various types of data files.
