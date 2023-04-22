@@ -88,9 +88,13 @@ Output:
 - A PNG file showing the overlay of the two input NIfTI images.
 
 ### view_nifti.py
+
 Loads a NIfTI image file and visualizes it using the nilearn package.
 
-Usage: python view_nifti.py <nifti_file>
+Usage: 
+```
+python view_nifti.py <nifti_file>
+```
 
 Arguments:
 
